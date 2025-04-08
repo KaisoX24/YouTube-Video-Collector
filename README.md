@@ -44,7 +44,7 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
    git clone https://github.com/yourusername/channel-sort.git
    cd channel-sort
 
-2.  **Create a virtual environment (optional but recommended)**
+2.  **Create a virtual environment (optional but recommended):**
 
    ```bash
    python -m venv venv
