@@ -60,6 +60,13 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
    ```env
    api_key=YOUR_YOUTUBE_DATA_API_KEY
 
+5. **Run the app:**
+
+   ```bash
+   streamlit run your_script.py
+
+
+
 
    
 
