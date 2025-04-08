@@ -6,7 +6,7 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
 
 ## 🚀 Features
 
-- 🔍 **Search YouTube videos** by handle (@channelname)
+- 🔍 **Search YouTube videos** by handle (`@channelname`)
 - 📦 **Fetch all uploaded videos** from each channel
 - 🧮 **Sort videos** by Newest or Oldest first
 - 🔠 **Search by keyword** in video titles
@@ -16,15 +16,14 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
 - 📎 **Click to watch videos directly on YouTube**
 
 ---
+
 ## 🧑‍💻 How It Works
 
 - **You input YouTube handles (one per line).**
-
 - **It uses the YouTube Data API to get the channel’s uploads playlist.**
-
 - **All videos are retrieved and stored with metadata (title, ID, thumbnail, published date, etc).**
-
 - **Videos are sorted, filtered, and shown with thumbnails and links.**
+
 ---
 
 ## 🛠️ Tech Stack
@@ -64,9 +63,3 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
 
    ```bash
    streamlit run your_script.py
-
-
-
-
-   
-
