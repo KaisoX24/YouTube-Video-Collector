@@ -1,4 +1,4 @@
-# 📺 YouTube Playlist Collector
+# 📺 YouTube Video Collector
 
 This is a Streamlit web app that lets you fetch all videos from multiple YouTube channels using their handles, organize them into virtual playlists, and filter them by date, title, or channel — all visually with thumbnails and clickable video links.
 
@@ -43,3 +43,10 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
    ```bash
    git clone https://github.com/yourusername/channel-sort.git
    cd channel-sort
+
+2.  **Create a virtual environment (optional but recommended)**
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate  # or source venv/bin/activate on MAC
+
