@@ -50,3 +50,16 @@ This is a Streamlit web app that lets you fetch all videos from multiple YouTube
    python -m venv venv
    venv\Scripts\activate  # or source venv/bin/activate on MAC
 
+3. **Install Dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
+4. **Create a .env file with your YouTube API key:**
+
+   ```env
+   api_key=YOUR_YOUTUBE_DATA_API_KEY
+
+
+   
+
