@@ -1,4 +1,4 @@
-# 📺 ChannelSort: YouTube Playlist Collector
+# 📺 YouTube Playlist Collector
 
 A powerful Streamlit app that collects videos from multiple YouTube channels (using @handles), sorts them, and organizes them into virtual playlists of up to 5000 videos each.
 
